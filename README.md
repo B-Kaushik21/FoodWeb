@@ -8,7 +8,6 @@ FoodWeb is a full-stack web application where users can book chefs, waitstaff, a
 
 - **Frontend:** React, TailwindCSS, React Router
 - **Backend/Database:** Firebase Realtime Database, Firebase Authentication
-- **Image Hosting:** Static assets + Firebase Storage (optional)
 
 ---
 
@@ -69,7 +68,7 @@ export const db = getDatabase(app);
 export const auth = getAuth(app);
 ```
 # Clone the repo
-git clone https://github.com/your-username/foodweb.git
+git clone [https://github.com/your-username/foodweb.git](https://github.com/B-Kaushik21/FoodWeb)
 
 # Navigate into the project
 cd foodweb
